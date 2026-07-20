@@ -247,6 +247,11 @@ flowchart LR
 This project uses **GitHub Actions** for Continuous Integration, automatically running on every push and pull request to the `main` branch.
 
 ---
+<img width="1917" height="963" alt="image" src="https://github.com/user-attachments/assets/d7aa2637-1665-403f-841f-4eb471477801" />
+
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/e2ab884d-6090-477c-8e67-74d6bbce60e1" />
+
+
 
 ##  Sample Response
 
