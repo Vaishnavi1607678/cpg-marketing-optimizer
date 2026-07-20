@@ -1,0 +1,11 @@
+Date,Product,Category,Region,Channel,Spend,Sales
+2026-07-01,Shampoo,Personal Care,North,Facebook,5000,14000
+2026-07-01,Soap,Personal Care,South,Google,8000,15000
+2026-07-01,Detergent,Home Care,East,TV,12000,18000
+2026-07-01,Toothpaste,Personal Care,West,Instagram,4500,12000
+2026-07-01,Biscuits,Food,North,Email,2000,7000
+2026-07-02,Shampoo,Personal Care,North,Facebook,5200,15000
+2026-07-02,Soap,Personal Care,South,Google,8100,16000
+2026-07-02,Detergent,Home Care,East,TV,12500,18500
+2026-07-02,Toothpaste,Personal Care,West,Instagram,4700,13000
+2026-07-02,Biscuits,Food,North,Email,2100,7200
