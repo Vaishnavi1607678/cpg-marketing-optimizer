@@ -4,7 +4,7 @@
 
 #  CPG Daily Marketing Optimizer
 
-### AI-powered, ROI-driven daily budget optimization for Consumer Packaged Goods brands
+### Rule-based, ROI-driven daily budget optimization for Consumer Packaged Goods brands
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
